@@ -1,0 +1,9 @@
+Package: com.fidele007.aboutcarrier
+Name: AboutCarrier
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Custom carrier name in Settings > General > About > Network.
+Maintainer: fidele007 <kforcefidele@yahoo.com>
+Author: fidele007 <kforcefidele@yahoo.com>
+Section: Tweaks
